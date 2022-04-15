@@ -19,24 +19,8 @@
 
 ### [👉 WeOreum 사용해보기👈](https://http://weoreum.shop/)
 
----
-
-## 👨‍🎓 이력
-
-- 대구대학교 관광경영학과 졸업 (2011.3 ~ 2017. 2)
-- SK핀크스 (2017. 5 - 2017.10)
-- 세븐일레븐 편의점 점장 ( 2017.11 ~ 2021.7) 
-
-> 서비스직에서 일한만큼 의사소통을 중요시하고 있습니다.
-
-## 📞  Contact
-
-📱 카카오톡  ID  : jejusoda
-
-📱 이메일 : rhckdwls12@nate.com
 
 ---
-
 
 
 ## 🛠  Technical Stack
@@ -60,7 +44,7 @@
 <br />
 
 <summary>서비스 소개</summary>     
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioURgBWOAUN8Phl3AIVeunpO1OYEcBqGcShMUc34mdtP5GVc4rsoSHyF5eg-AcE3NirfR8HfJLjAmd0RlcXhkiXpR_foIm4bXZ2hLI2WHyRtAaTY_DuEH1g8zvMaJxHcwfVcAsVN-DJujpzWSCYhmPSnEoTUerEqlYxW1QfWfTyeWNt7zSS2xumik9/s16000/Record_2022_04_15_17_46_36_886.gif" width="1893px">
+  <img src="https://www.blogger.com/blog/post/edit/208380853257293062/5727316468295454208#" width="1893px">
 
 
 <summary>게시글 목록 (infinity scroll + 필터 기능)</summary>     
