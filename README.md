@@ -13,7 +13,7 @@
 
 <br/>
 
-### [👉 WeOreum 사용해보기👈](https://http://weoreum.shop/)
+### [👉 WeOreum 사용해보기👈](http://weoreum.shop/)
 
 
 ---
