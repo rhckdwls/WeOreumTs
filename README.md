@@ -61,7 +61,6 @@
 
 <summary>서비스 소개</summary>     
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioURgBWOAUN8Phl3AIVeunpO1OYEcBqGcShMUc34mdtP5GVc4rsoSHyF5eg-AcE3NirfR8HfJLjAmd0RlcXhkiXpR_foIm4bXZ2hLI2WHyRtAaTY_DuEH1g8zvMaJxHcwfVcAsVN-DJujpzWSCYhmPSnEoTUerEqlYxW1QfWfTyeWNt7zSS2xumik9/s16000/Record_2022_04_15_17_46_36_886.gif" width="1893px">
-  ㅇ
 
 
 <summary>게시글 목록 (infinity scroll + 필터 기능)</summary>     
