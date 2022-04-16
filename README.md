@@ -34,6 +34,7 @@
 - Git
 - Github
 - Visual Studio Code
+- AWS
 
 
 
