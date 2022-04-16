@@ -24,8 +24,7 @@
 
 - React
 - Recoil, SWR
-- HTML5, CSS3, JS ES6+
-- Styled-Components, BOOTSTRAP, emotion
+- emotion
 
 ### General
 
