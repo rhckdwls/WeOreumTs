@@ -25,6 +25,7 @@
 - React
 - Recoil, SWR
 - emotion
+- soket.io
 
 ### General
 
