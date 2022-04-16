@@ -24,8 +24,10 @@
 
 - React
 - Recoil, SWR
-- emotion
-- soket.io
+- Emotion
+- TypeScript
+- Soket.io
+- Axios
 
 ### General
 
