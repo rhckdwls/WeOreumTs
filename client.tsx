@@ -12,7 +12,7 @@ import { reset } from '@utils/reset';
 
 axios.defaults.withCredentials = true;
 axios.defaults.baseURL =
-  process.env.NODE_ENV === 'production' ? 'https://sleact.nodebird.com' : 'http://localhost:3090';
+  process.env.NODE_ENV === 'production' ? 'http://weoreum.shop' : 'http://localhost:3090';
 
 render(
   <BrowserRouter>
